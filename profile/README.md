@@ -1,4 +1,4 @@
-# SapiensData 📊
+# SapiensData Platform 📊
 
 ![SapiensData Logo](../markdowns/media/images/logos/text_logo_pink.png)
 
