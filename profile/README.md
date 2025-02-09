@@ -1,6 +1,6 @@
-# SapiensData - DRMAV 📊
+# SapiensData 📊
 
-![SapiensData Logo](Docs/READMEs/media/images/logos/text_logo_pink.png)
+![SapiensData Logo](../markdowns/media/images/logos/text_logo_pink.png)
 
 ## Project Overview 📖
 
