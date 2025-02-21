@@ -2,6 +2,8 @@
 
 ![SapiensData Logo](../markdowns/media/images/logos/text_logo_pink.png)
 
+<a href="https://discord.gg/YbVrAxVrAs"><img alt="Discord" src="https://img.shields.io/discord/725602949748752515?color=5865F2&label=Discord&style=for-the-badge" /></a>
+
 ## Project Overview 📖
 
 **SapiensData** is a web application platform designed to manage personal accounting through advanced data receipt management, analysis, and visualization. Utilizing AI models, this application allows users to capture, analyze, and visualize their financial data from receipts, enabling better financial management and decision-making.
@@ -31,6 +33,15 @@ and each subproject has its own README.md included in itself.
 - Integration of machine learning models for predictive analytics.
 - Development of a mobile app version.
 - Additional visualizations for more comprehensive financial insights.
+
+<details>
+  <summary><h2><b>🏆 Top Contributors</b></h2></summary>
+
+[![Janusz](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61593902?v=4&w=50&h=50&mask=circle)](https://github.com/train9013)
+[![Reza Nazari](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127698692?v=4&w=50&h=50&mask=circle)](https://github.com/reza-nzri)
+[![GX3D](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123469181?v=4&w=50&h=50&mask=circle)](https://github.com/GX3D)
+[![Flamevel](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/195814637?v=4&w=50&h=50&mask=circle)](https://github.com/Flamevel)
+</details>
 
 ### Copyright
 
