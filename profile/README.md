@@ -2,7 +2,7 @@
 
 ![SapiensData Logo](../markdowns/media/images/logos/text_logo_pink.png)
 
-<a href="https://discord.gg/YbVrAxVrAs"><img alt="Discord" src="https://img.shields.io/discord/725602949748752515?color=5865F2&label=Discord&style=for-the-badge" /></a>
+<a href="https://discord.gg/YbVrAxVrAs"><img alt="Discord" src="https://img.shields.io/discord/1335728456738017300?color=5865F2&label=Discord&style=for-the-badge" /></a>
 
 ## Project Overview 📖
 
